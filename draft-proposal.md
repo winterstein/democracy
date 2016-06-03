@@ -24,7 +24,9 @@ We propose starting with a simple change: ??fix the problem that Conference
 
 ## Handling Amendments
 
-??
+Amendments to motions will not be possible. Instead, create a new alternative motion. This is the approach used by e.g. the government's e-petitions.
+
+Noting that this file is in Git, so fork it.
 
 ## Other Approaches
 
